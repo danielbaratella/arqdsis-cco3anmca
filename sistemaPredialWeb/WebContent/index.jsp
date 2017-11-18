@@ -17,7 +17,7 @@
 	<c:import url="Menu.jsp"/>
     <!-- Container Principal -->
     <div id="main" class="container">
-        <h3 class="page-header">Empty</h3>
+        <h3 class="page-header">Sorry! Page in development. Come back later.</h3>
 
     </div>
     <script src="js/jquery.min.js"></script>
